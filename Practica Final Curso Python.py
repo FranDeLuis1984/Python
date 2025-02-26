@@ -1,7 +1,7 @@
 """ CASO PRÁCTICO FINAL PYTHON - FRANCISCO DE LUIS MENÉ -"""
 
 """Programa en Python que gestiona libros y préstamos en una biblioteca. 
-El programa debe incluye una clase Libro con métodos para agregar, prestar, devolver, mostrar y buscar libros. 
+El programa incluye una clase Libro con métodos para agregar, prestar, devolver, mostrar y buscar libros. 
 Se implementa un menú interactivo para que el usuario pueda realizar estas operaciones.
 """
 
